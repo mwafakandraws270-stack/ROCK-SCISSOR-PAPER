@@ -8,8 +8,6 @@
 #include<windows.h>
 using namespace std;
 
-enum engame { paper = 1 , scissor = 2 , rock = 3 };
-
 int readnumber ( string massege )
 {
     int num =0;
